@@ -130,4 +130,4 @@ Flags are not supported on some devices.
 
 ### Emojipedia
 
-If you can't find what you are looking for in the examples above, then you can visit [emojipedia](https://emojipedia.org/){:target="\_blank"} and explore a wider variety of emojis there.
+If you can't find what you are looking for in the examples above, then you can visit [emojipedia](https://emojipedia.org/){:target="_blank"} and explore a wider variety of emojis there.
