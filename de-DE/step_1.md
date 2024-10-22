@@ -1,6 +1,6 @@
-Es stehen über 3.000 Emojis zur Verfügung. Sie decken eine Vielzahl von Emotionen, Themen und Aktivitäten ab.
+Es gibt über 3.000 Emojis, die du benutzen kannst. Sie decken eine Vielzahl von Emotionen, Themen und Aktivitäten ab.
 
-**Tipp** Emojis sehen auf verschiedenen Geräten etwas anders aus, sodass jemand anders möglicherweise nicht genau das gleiche Bild wie du siehst. Einige Emojis werden auf einigen Geräten nicht unterstützt und diese werden stattdessen als Quadrat angezeigt.
+**Tipp**: Emojis sehen auf verschiedenen Geräten etwas anders aus, sodass jemand anders möglicherweise nicht genau das gleiche Bild wie du siehst. Einige Emojis werden auf einigen Geräten nicht unterstützt und stattdessen als Quadrat angezeigt.
 
 ### Die Emoji-Tastatur
 
